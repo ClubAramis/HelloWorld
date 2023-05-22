@@ -1,0 +1,10 @@
+C:\Program Files\dnn_dev\bin\Dnn.ClubAramis.HelloWorld.dll.config
+C:\Program Files\dnn_dev\bin\Dnn.ClubAramis.HelloWorld.dll
+C:\Program Files\dnn_dev\bin\Dnn.ClubAramis.HelloWorld.pdb
+C:\Program Files\dnn_dev\DesktopModules\module-helloworld\Dnn.ClubAramis.HelloWorld\obj\Debug\Dnn.ClubAramis.HelloWorld.csproj.AssemblyReference.cache
+C:\Program Files\dnn_dev\DesktopModules\module-helloworld\Dnn.ClubAramis.HelloWorld\obj\Debug\HelloWorld.Dnn.Dnn.ClubAramis.HelloWorld.App_LocalResources.Settings.resources
+C:\Program Files\dnn_dev\DesktopModules\module-helloworld\Dnn.ClubAramis.HelloWorld\obj\Debug\Dnn.ClubAramis.HelloWorld.csproj.GenerateResource.cache
+C:\Program Files\dnn_dev\DesktopModules\module-helloworld\Dnn.ClubAramis.HelloWorld\obj\Debug\Dnn.ClubAramis.HelloWorld.csproj.CoreCompileInputs.cache
+C:\Program Files\dnn_dev\DesktopModules\module-helloworld\Dnn.ClubAramis.HelloWorld\obj\Debug\Dnn.ClubAramis.HelloWorld.csproj.CopyComplete
+C:\Program Files\dnn_dev\DesktopModules\module-helloworld\Dnn.ClubAramis.HelloWorld\obj\Debug\Dnn.ClubAramis.HelloWorld.dll
+C:\Program Files\dnn_dev\DesktopModules\module-helloworld\Dnn.ClubAramis.HelloWorld\obj\Debug\Dnn.ClubAramis.HelloWorld.pdb
